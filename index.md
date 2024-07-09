@@ -1,9 +1,4 @@
-```{toctree}
----
-hidden: true
-includehidden: true
-titlesonly: true
----
+```
 ```
 <img src="https://nipy.org/img/nipy.svg" alt="workshop logo" width="300" style="margin:0 0 0 0"/>
 
