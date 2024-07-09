@@ -6,9 +6,7 @@ from DICOM `.dcm` to NIFTI format `.nii`, data organization in BIDS and also goi
  `basics in data handling` with `nilearn` and `nipype`. The second half 
 will entail examples of dedicated `advanced and specialized analyses` within which folks will also evaluate the discussed topics. As mentioned before, these resources will contain all materials utilized in the workshop. In general, we will aim for 4 h per session. Our **very optimistic** schedule looks as follows (all times in IST): 
 
-## Day 1 - 15/07/2024
-
-Introduction to Imaging and Non-imaging data
+## Day 1 - Introduction to Imaging and Non-imaging data
 
 | Time slot         | Topic | 
 |--------------|:-----:|
@@ -19,7 +17,7 @@ Introduction to Imaging and Non-imaging data
 | xx PM - xx PM |  [Bascis in data handling via Pandas and NumPy]() |
 
 
-## Day 2 - 16/07/2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Structural MRI (T1 weighted)
+## Day 2 - Structural MRI (T1 weighted)
 
 | Time slot         | Topic | 
 |--------------|:-----:|
