@@ -1,0 +1,79 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+p.description {
+    color: #1B5C8A;
+    font-weight: bold;
+}
+
+div.search {
+    margin-top: 5ex;
+    margin-bottom: 3vh;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+    background-color: #eaeaea;
+}
+
+header p.sidebar a:hover, section a:hover{
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+div.search span {
+    margin-left: 1ex;
+}
+
+section iframe {
+    /* width computed from containers' width */
+    width: calc((95vw - 860px) / 2 + 500px);
+    height: calc(95vh - 170px);
+    border: solid 1px #bbb;
+}
+
+section a img:hover {
+    box-shadow: 0px 0px 10px #267CB9;
+}
+
+@media print, screen and (max-width: 960px) {
+    section iframe {
+	width: 100%;
+    }
+
+    header p.view {
+	display: none;
+    }
+
+    header {
+	padding-right: 10px;
+    }
+
+    div.search {
+	margin-top: 1ex;
+	margin-bottom: 1ex;
+    }
+}
+
+/* Google custom search */
+.gsc-control-cse {
+    padding: 0px !important;
+}
+
+.gsc-search-button {
+    margin-left: 0px !important;
+    padding-left: 0px !important;
+}
+
+.gsc-search-box-tools .gsc-search-box .gsc-input {
+    padding-right: 5px !important;
+}
+
+.gsc-search-button-v2, .gsc-search-button-v2:hover,
+.gsc-search-button-v2:focus {
+    padding: 6px 12px !important;
+}
+
+table.gsc-search-box td, table.gsc-search-box th {
+    border: none;
+}
