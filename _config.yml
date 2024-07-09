@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 
 #######################################################################################
 # Book settings
-title                       : "MRI and EEG data analysis for beginners"  # The title of the book. Will be placed in the left navbar.
+title                       : "Neuroimaging workshop for beginners"  # The title of the book. Will be placed in the left navbar.
 author                      : Affiliated to BCCL-IIITH  # The author of the book
 copyright                   : "2024"  # Copyright year to be placed in the footer
 logo                        : "static/nipy_logo.png"  # A path to the book logo
