@@ -1,0 +1,21 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <nav class="site-nav">
+      
+      <div class="trigger">
+        {% assign pages = site.pages | sort:"order"  %}
+        {% for my_page in pages %}
+          {% if my_page.nav-title %}
+          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.nav-title }}</a>
+          {% elsif my_page.title %}
+          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </nav>
+
+  </div>
+
+</footer>
