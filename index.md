@@ -14,8 +14,7 @@ The overall idea of this workshop is to train attendees how to begin with brain 
 of Neuroimaging.
 
  Broadly, this workshop is conducted over 5 days. In the initial days, we will try to provide 
-brief overview of the data types and data organization that the Neuroimaging community prefer
-followed by basics in data handling such that the stage is set for actual data analysis/workflows.
+brief overview of the data types and data organization that the Neuroimaging community prefer, followed by basics in data handling and visualization such that the stage is set for actual data analysis/workflows. For a precise outline of this workshop, please consult the respective [page](outline "Outline of the workshop").
 
 This workshop utilizes pre-coded packages or softwares that are easy to download and install. Mostly
 coded in Python, MATLAB, C++ etc. For hands on practicising, we can rely on Jupyter notebooks. 
