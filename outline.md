@@ -3,8 +3,12 @@
 The Neuroimaging workflow workshop will be conducted into distinct parts organized according the
 modality. While the first day will be focussed on `Introduction to MRI` that covers conversion
 from DICOM `.dcm` to NIFTI format `.nii`, data organization in BIDS and also going through
- `basics in data handling` with `nilearn` and `nipype`. The second half 
-will entail examples of dedicated `advanced and specialized analyses` within which folks will also evaluate the discussed topics. As mentioned before, these resources will contain all materials utilized in the workshop. In general, we will aim for 4 h per session. Our **very optimistic** schedule looks as follows (all times in IST): 
+ `basics in data handling` with `nilearn` and `nipype`. The following days 
+will entail examples of dedicated `advanced and specialized analyses` specific to each
+imaging such as Strcutural MRI (sMRI), Functional MRI (functional connectivity),
+ diffusion MRI (structural connectivity) and modeling with EEG signals.
+ As mentioned before, these resources will contain all materials utilized in the workshop.
+Our **very optimistic** schedule looks as follows: 
 
 ## Day 1 - Introduction to Imaging and Non-imaging data
 
