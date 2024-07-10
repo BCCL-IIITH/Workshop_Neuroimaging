@@ -30,3 +30,34 @@ Our **very optimistic** schedule looks as follows:
 | xx PM - xx PM |  [After preprocessing: Quality control]() |
 | xx PM - xx PM |  [T1 weighted imaging workflow - sMRI features]() |
 | xx PM - xx PM |  [Statistical modeling]() |
+
+## Day 3 - Functional MRI
+
+| Time slot         | Topic | 
+|--------------|:-----:|
+| xx AM - xx AM |  [Introduction lecture on fMRI case studies]() |
+| xx AM - xx AM |  [Exporing preprocessing tools for fMRI]() |
+| xx PM - xx PM |  [After preprocessing: Quality control]() |
+| xx AM - xx PM |  [Image manipulation via nilearn]() |
+| xx PM - xx PM |  [Brain parcellations for fMRI timeseries]() |
+| xx PM - xx PM |  [Cleaning fMRI timeseries signals - removing confounds]() |
+| xx PM - xx PM |  [Functional connectivity]() |
+
+## Day 4 - Diffusion MRI
+
+| Time slot         | Topic | 
+|--------------|:-----:|
+| xx AM - xx AM |  [Exporing preprocessing tools for dMRI]() |
+| xx PM - xx PM |  [After preprocessing: Quality control]() |
+| xx AM - xx PM |  [Local fiber orientation reconstruction]() |
+| xx PM - xx PM |  [Tractography]() |
+| xx PM - xx PM |  [Structural connectivity]() |
+
+## Day 5 - EEG
+
+| Time slot         | Topic | 
+|--------------|:-----:|
+| xx AM - xx AM |  [Understand EEG signals]() |
+| xx PM - xx PM |  [Preprocessing and visualization of EEG signals]() |
+| xx AM - xx PM |  [EEG source localization]() |
+| xx AM - xx PM |  [Statistical modeling]() |
