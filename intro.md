@@ -12,11 +12,9 @@ and anatomical brain images, uncovering the neural basis of individual
 are [[OpenNeuro]](#1), [[the Human Connectome Project]](#2), [[the NKI-Rockland sample]](#3),
 [[the UK Biobank]](#4), [ADNI](https://adni.loni.usc.edu/) and soon.
 
-
-While there is a steady increase in the amount of brain imaging volumes via open data sharing
-policy, it is also important to recognize a multitude of preprocessing and analysis software packages
-for reproducible science in Neuroimaging. To name a few,
-
+It is also important to recognize a multitude of preprocessing and analysis software packages
+for reproducible science in Neuroimaging. To name a few [[A Practical Guide for Generating Reproducible and Programmatic Neuroimaging Visualizations]](#5),
+[A Practical Guide for Generating Reproducible and Programmatic Neuroimaging Visualizations](static/code-base_tools.png "Chopra S, et al. and Holmes A. 2023 Aperture Neuro")
 
 ## References
 <a id="1">[OpenNeuro]</a>
@@ -38,3 +36,8 @@ Frontiers in Neuroscience 6:152.
 Littlejohns TJ, et al. (2020).
 The UK Biobank imaging enhancement of 100,000 participants: rationale, data collection, management and future directions.
 Nature Communications 11:2624.
+
+<a id="5">[Aperture Neuro]</a>
+Chopra S, et al. and Holmes A. (2023).
+A Practical Guide for Generating Reproducible and Programmatic Neuroimaging Visualizations.
+Aperture Neuro. 3:1-20.
