@@ -19,7 +19,7 @@ for reproducible science in Neuroimaging. To name a few [[A Practical Guide for 
 [![Examples of code-based neuroimaging visualizations tools that can be accessed directly within R, MATLAB and Python environments.](static/code-base_tools.png "Chopra S, et al. and Holmes A. 2023 Aperture Neuro")](https://bccl-iiith.github.io/Workshop_Neuroimaging/static/code-base_tools.png)
 
 
-[![Software tools used for fMRI pipelines present in published studies](static/fnins-10-00515-t001.jpg)]((https://bccl-iiith.github.io/Workshop_Neuroimaging/static/fnins-10-00515-t001.jpg)
+[![Software tools used for fMRI pipelines present in published studies](static/fnins-10-00515-t001.jpg)](https://bccl-iiith.github.io/Workshop_Neuroimaging/static/fnins-10-00515-t001.jpg)
 
 ## References
 <a id="1">[OpenNeuro]</a>
