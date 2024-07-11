@@ -9,11 +9,12 @@ different formats of the MRI files, types of MR modalities that are commonly
 Neuroimaging has been bringing in terabytes of high-resolution functional
 and anatomical brain images, uncovering the neural basis of individual
  differences in behavior and cognition. The most prominent examples
-"...the **go to** statement should be abolished..." [[1]](#1).
+are [[OpenNeuro]](#1),
+
 
 ## References
-<a id="1">[1]</a>
-Dijkstra, E. W. (1968).
-Go to statement considered harmful.
-Communications of the ACM, 11(3), 147-148.
+<a id="1">[OpenNeuro]</a>
+Christopher, J. M., Krzysztof, J. G., Franklin, F., Ross, B., Yaroslav, O. H., Eric, Miller., Nell, H., Joe, W., Oscar, E., Mathias, G., Anita, J., Russell, P. (2021).
+The OpenNeuro resource for sharing of neuroscience data.
+eLife 10:e71774.
 
