@@ -16,7 +16,10 @@ It is also important to recognize a multitude of preprocessing and analysis soft
 for reproducible science in Neuroimaging. To name a few [[A Practical Guide for Generating Reproducible and Programmatic Neuroimaging Visualizations]](#5).
 
 
-[![Examples of code-based neuroimaging visualizations tools that can be accessed directly within R, MATLAB and Python environments.](static/code-base_tools.png "Chopra S, et al. and Holmes A. 2023 Aperture Neuro")]()
+[![Examples of code-based neuroimaging visualizations tools that can be accessed directly within R, MATLAB and Python environments.](static/code-base_tools.png "Chopra S, et al. and Holmes A. 2023 Aperture Neuro")](https://bccl-iiith.github.io/Workshop_Neuroimaging/static/code-base_tools.png)
+
+
+[![Software tools used for fMRI pipelines present in published studies](static/fnins-10-00515-t001.jpg)]((https://bccl-iiith.github.io/Workshop_Neuroimaging/static/fnins-10-00515-t001.jpg)
 
 ## References
 <a id="1">[OpenNeuro]</a>
@@ -43,3 +46,8 @@ Nature Communications 11:2624.
 Chopra S, et al. and Holmes A. (2023).
 A Practical Guide for Generating Reproducible and Programmatic Neuroimaging Visualizations.
 Aperture Neuro. 3:1-20.
+
+<a id="6">[Hitchhiker's Guide]</a>
+Soares JM, et al. (2016).
+A Hitchhiker's Guide to Functional Magnetic Resonance Imaging.
+Front Neurosci. 10:515.
