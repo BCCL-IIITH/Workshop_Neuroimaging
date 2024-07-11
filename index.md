@@ -18,7 +18,7 @@ brief overview of the data types and data organization that the Neuroimaging com
 
 This workshop utilizes pre-coded packages or softwares that are easy to download and install. Mostly
 coded in Python, MATLAB, C++ etc. For hands on practicising, we can rely on Jupyter notebooks. 
-All the content will be provided in Jupyter notebooks.
+All the content will be provided in Jupyter notebooks or bash scripts.
 
 
 # Skeleton of the workshop

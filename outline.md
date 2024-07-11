@@ -14,7 +14,7 @@ Our **very optimistic** schedule looks as follows:
 
 | Time slot         | Topic | 
 |--------------|:-----:|
-| xx AM - xx AM |  [From the scanner to the computer]() |
+| xx AM - xx AM |  [From the scanner to the computer](day1_dicom2nifti "dicom2nifti") |
 | xx AM - xx AM |  [Data organization with PyBIDS]() |
 | xx AM - xx PM |  [Basic visualization of open MRI data]() |
 | xx PM - xx PM |  [Basics in data handling via nibabel and nilearn]() |
