@@ -13,8 +13,10 @@ are [[OpenNeuro]](#1), [[the Human Connectome Project]](#2), [[the NKI-Rockland 
 [[the UK Biobank]](#4), [ADNI](https://adni.loni.usc.edu/) and soon.
 
 It is also important to recognize a multitude of preprocessing and analysis software packages
-for reproducible science in Neuroimaging. To name a few [[A Practical Guide for Generating Reproducible and Programmatic Neuroimaging Visualizations]](#5),
-[](static/code-base_tools.png "Chopra S, et al. and Holmes A. 2023 Aperture Neuro")
+for reproducible science in Neuroimaging. To name a few [[A Practical Guide for Generating Reproducible and Programmatic Neuroimaging Visualizations]](#5).
+
+
+[![Examples of code-based neuroimaging visualizations tools that can be accessed directly within R, MATLAB and Python environments.](static/code-base_tools.png "Chopra S, et al. and Holmes A. 2023 Aperture Neuro")]()
 
 ## References
 <a id="1">[OpenNeuro]</a>
