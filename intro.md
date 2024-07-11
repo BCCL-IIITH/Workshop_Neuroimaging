@@ -10,7 +10,12 @@ Neuroimaging has been bringing in terabytes of high-resolution functional
 and anatomical brain images, uncovering the neural basis of individual
  differences in behavior and cognition. The most prominent examples
 are [[OpenNeuro]](#1), [[the Human Connectome Project]](#2), [[the NKI-Rockland sample]](#3),
-[[the UK Biobank]](#4) and soon.
+[[the UK Biobank]](#4), [ADNI](https://adni.loni.usc.edu/) and soon.
+
+
+While there is a steady increase in the amount of brain imaging volumes via open data sharing
+policy, it is also important to recognize a multitude of preprocessing and analysis software packages
+for reproducible science in Neuroimaging. To name a few,
 
 
 ## References
