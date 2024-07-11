@@ -9,12 +9,13 @@ different formats of the MRI files, types of MR modalities that are commonly
 Neuroimaging has been bringing in terabytes of high-resolution functional
 and anatomical brain images, uncovering the neural basis of individual
  differences in behavior and cognition. The most prominent examples
-are [[OpenNeuro]](#1), [[Human Connectome Project]](#2)
+are [[OpenNeuro]](#1), [[the Human Connectome Project]](#2), [[the NKI-Rockland sample]](#3),
+[[the UK Biobank]](#4) and soon.
 
 
 ## References
 <a id="1">[OpenNeuro]</a>
-Christopher, J. M., et al. and Russell, P. (2021).
+Christopher JM, et al. and Russell P. (2021).
 The OpenNeuro resource for sharing of neuroscience data.
 eLife 10:e71774.
 
@@ -22,3 +23,13 @@ eLife 10:e71774.
 Van Essen DC, et al. (2013).
 The WU-Minn Human Connectome Project: an overview.
 NeuroImage 80:62--79.
+
+<a id="3">[NKI]</a>
+Courtney W, et al. and Milham MP. (2012).
+The NKI-Rockland Sample: A Model for Accelerating the Pace of Discovery Science in Psychiatry.
+Frontiers in Neuroscience 6:152.
+
+<a id="4">[UK Biobank]</a>
+Littlejohns TJ, et al. (2020).
+The UK Biobank imaging enhancement of 100,000 participants: rationale, data collection, management and future directions.
+Nature Communications 11:2624.
