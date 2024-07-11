@@ -10,7 +10,7 @@ imaging such as Strcutural MRI (sMRI), Functional MRI (functional connectivity),
  As mentioned before, these resources will contain all materials utilized in the workshop.
 Our **very optimistic** schedule looks as follows: 
 
-## Day 1 - Introduction to Imaging and Non-imaging data
+## Day 1 - [Introduction to MRI](intro "Introduction to MRI")
 
 | Time slot         | Topic | 
 |--------------|:-----:|
