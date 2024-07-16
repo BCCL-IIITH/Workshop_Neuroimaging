@@ -10,7 +10,7 @@ imaging such as Strcutural MRI (sMRI), Functional MRI (functional connectivity),
  As mentioned before, these resources will contain all materials utilized in the workshop.
 Our **very optimistic** schedule looks as follows: 
 
-## One Session - [Introduction to MRI]()
+## One Session on [Introduction to MRI]()
 
 | Topics covered |
 |:-----:|
@@ -21,43 +21,50 @@ Our **very optimistic** schedule looks as follows:
 |  [Bascis in data handling via Pandas and NumPy]() |
 
 
-## Day 2 - Structural MRI (T1 weighted)
+## Two sessions on Structural MRI and its applications (T1 weighted)
 
-| Time slot         | Topic | 
-|--------------|:-----:|
-| xx AM - xx AM |  [Imaging modalities in Structural MRI]() |
-| xx AM - xx PM |  [Preprocessing workflow]() |
-| xx PM - xx PM |  [After preprocessing: Quality control]() |
-| xx PM - xx PM |  [T1 weighted imaging workflow - sMRI features]() |
-| xx PM - xx PM |  [Statistical modeling]() |
+| Topics covered |
+|:-----:|
+|  [Imaging modalities in Structural MRI]() |
+|  [Preprocessing workflow]() |
+|  [After preprocessing: Quality control]() |
+|  [T1 weighted imaging workflow - Cortical thickness, etc.]() |
+|  [Cortical thickness comparison in Alzheimer's disease and Controls]() |
+|  [Voxel-based morphometry]() |
+|  [Lesion to Symptom mapping]() |
 
-## Day 3 - Functional MRI
+## Two sessions on Diffusion MRI and Visualizations
 
-| Time slot         | Topic | 
-|--------------|:-----:|
-| xx AM - xx AM |  [Introduction lecture on fMRI case studies]() |
-| xx AM - xx AM |  [Exporing preprocessing tools for fMRI]() |
-| xx PM - xx PM |  [After preprocessing: Quality control]() |
-| xx AM - xx PM |  [Image manipulation via nilearn]() |
-| xx PM - xx PM |  [Brain parcellations for fMRI timeseries]() |
-| xx PM - xx PM |  [Cleaning fMRI timeseries signals - removing confounds]() |
-| xx PM - xx PM |  [Functional connectivity]() |
+| Topics covered |
+|:-----:|
+|  [Exporing preprocessing tools for dMRI]() |
+|  [After preprocessing: Quality control]() |
+|  [Local fiber orientation reconstruction]() |
+|  [Tractography]() |
+|  [Visualization of fiber tracts pathways]() |
+|  [Estimating structural connectivity]() |
+|  [Structure to Function coupling example]() |
 
-## Day 4 - Diffusion MRI
+## Four sessions on Functional MRI
 
-| Time slot         | Topic | 
-|--------------|:-----:|
-| xx AM - xx AM |  [Exporing preprocessing tools for dMRI]() |
-| xx PM - xx PM |  [After preprocessing: Quality control]() |
-| xx AM - xx PM |  [Local fiber orientation reconstruction]() |
-| xx PM - xx PM |  [Tractography]() |
-| xx PM - xx PM |  [Structural connectivity]() |
+| Topics covered |
+|:-----:|
+|  [Introduction lecture on fMRI case studies]() |
+|  [Exploring preprocessing tools for fMRI]() |
+|  [After preprocessing: Quality control]() |
+|  [Image manipulation via nilearn]() |
+|  [Brain parcellations for fMRI timeseries]() |
+|  [Cleaning fMRI timeseries signals - removing confounds]() |
+|  [Resting-state Functional connectivity - Static and Dynamic]() |
+|  [Task-fMRI]() |
 
-## Day 5 - EEG
+## Two sessions on Time series signals
 
-| Time slot         | Topic | 
-|--------------|:-----:|
-| xx AM - xx AM |  [Understand EEG signals]() |
-| xx PM - xx PM |  [Preprocessing and visualization of EEG signals]() |
-| xx AM - xx PM |  [EEG source localization]() |
-| xx AM - xx PM |  [Statistical modeling]() |
+| Topics covered |
+|:-----:|
+|  [Understand EEG, ECG, EOG signals]() |
+|  [Preprocessing and visualization of EEG signals]() |
+|  [EEG source localization]() |
+|  [Study on Sleep data with EEG and EOG]() |
+|  [Study on heart conditions with ECG]() |
+|  [Study on Sleep data with EEG]() |
