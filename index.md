@@ -22,7 +22,7 @@ All the content will be provided in Jupyter notebooks or bash scripts.
 
 # When is the workshop?
 
-The workshop will start from August 3rd 2024 3-5pm[^1], every Saturday and
+The workshop will start from **August 3rd 2024 3-5pm**[^1], every Saturday and
 it continues for 3 months. Each week every Saturday we will have sessions
 that cover several topics.
 that are a session
