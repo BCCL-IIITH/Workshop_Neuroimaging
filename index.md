@@ -5,7 +5,8 @@ order: 1
 ---
 
 # Welcome!
-Hello everyone and welcome to the "MRI and EEG data analysis" workshop conducted at the International Institute of Information Technology Hyderabad organized by Brain, Cognition and Computation Lab, we're glad to see you here!
+Hello everyone and welcome to the "MRI and EEG data analysis" workshop that will take place
+at the International Institute of Information Technology Hyderabad organized by Brain, Cognition and Computation Lab.
 
 # Overview of the workshop
 
@@ -20,7 +21,15 @@ This workshop utilizes pre-coded packages or softwares that are easy to download
 coded in Python, MATLAB, C++ etc. For hands on practicising, we can rely on Jupyter notebooks. 
 All the content will be provided in Jupyter notebooks or bash scripts.
 
+# When is the workshop?
+
+The workshop will start from August 3rd 2024 3-5pm[^1], every Saturday and
+it continues for 3 months. Each week every Saturday we will have a session
+that covers modules as outlined below.
 
 # Skeleton of the workshop
 
 [Outline](outline "Outline of the workshop")
+
+
+[^1] Place to sit will be decided soon

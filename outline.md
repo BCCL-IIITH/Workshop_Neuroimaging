@@ -10,15 +10,15 @@ imaging such as Strcutural MRI (sMRI), Functional MRI (functional connectivity),
  As mentioned before, these resources will contain all materials utilized in the workshop.
 Our **very optimistic** schedule looks as follows: 
 
-## Day 1 - [Introduction to MRI](intro "Introduction to MRI")
+## One Session - [Introduction to MRI]()
 
-| Time slot         | Topic | 
-|--------------|:-----:|
-| xx AM - xx AM |  [From the scanner to the computer](day1_dicom2nifti "dicom2nifti") |
-| xx AM - xx AM |  [Data organization with PyBIDS]() |
-| xx AM - xx PM |  [Basic visualization of open MRI data]() |
-| xx PM - xx PM |  [Basics in data handling via nibabel and nilearn]() |
-| xx PM - xx PM |  [Bascis in data handling via Pandas and NumPy]() |
+| Topics covered |
+|:-----:|
+|  [From the scanner to the computer]() |
+|  [Data organization with PyBIDS]() |
+|  [Basic visualization of open MRI data]() |
+|  [Basics in data handling via nibabel and nilearn]() |
+|  [Bascis in data handling via Pandas and NumPy]() |
 
 
 ## Day 2 - Structural MRI (T1 weighted)
