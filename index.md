@@ -30,7 +30,7 @@ that covers modules as outlined below.
 
 # Skeleton of the workshop
 
-[Outline of the topics](outline "Outline of the workshop")
+[Outline of the planned topics](outline "Outline of the workshop")
 
 # Registration procedure
 
