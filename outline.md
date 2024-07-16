@@ -12,7 +12,7 @@ Our **very optimistic** schedule looks as follows:
 
 ## One Session on [Introduction to MRI]()
 
-| Topics covered |
+| Topics |
 |:-----:|
 |  [From the scanner to the computer]() |
 |  [Data organization with PyBIDS]() |
@@ -23,7 +23,7 @@ Our **very optimistic** schedule looks as follows:
 
 ## Two sessions on Structural MRI and its applications (T1 weighted)
 
-| Topics covered |
+| Topics |
 |:-----:|
 |  [Imaging modalities in Structural MRI]() |
 |  [Preprocessing workflow]() |
@@ -35,7 +35,7 @@ Our **very optimistic** schedule looks as follows:
 
 ## Two sessions on Diffusion MRI and Visualizations
 
-| Topics covered |
+| Topics |
 |:-----:|
 |  [Exporing preprocessing tools for dMRI]() |
 |  [After preprocessing: Quality control]() |
@@ -47,7 +47,7 @@ Our **very optimistic** schedule looks as follows:
 
 ## Four sessions on Functional MRI
 
-| Topics covered |
+| Topics |
 |:-----:|
 |  [Introduction lecture on fMRI case studies]() |
 |  [Exploring preprocessing tools for fMRI]() |
@@ -60,7 +60,7 @@ Our **very optimistic** schedule looks as follows:
 
 ## Two sessions on Time series signals
 
-| Topics covered |
+| Topics |
 |:-----:|
 |  [Understand EEG, ECG, EOG signals]() |
 |  [Preprocessing and visualization of EEG signals]() |
