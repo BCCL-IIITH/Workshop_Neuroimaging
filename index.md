@@ -6,7 +6,8 @@ order: 1
 
 # Welcome!
 Hello everyone and welcome to the "MRI and EEG data analysis" workshop that will take place
-at the International Institute of Information Technology Hyderabad organized by Brain, Cognition and Computation Lab.
+at the International Institute of Information Technology Hyderabad organized by Cognitive
+Science Lab, IIITH.
 
 # Overview of the workshop
 
@@ -14,7 +15,7 @@ The overall idea of this workshop is to train attendees how to begin with brain 
  familiarize with Neuroimaging workflows/pipelines that include processing multiple modalities
 of Neuroimaging.
 
- Broadly, this workshop is conducted every **Saturday** starting from **August 3rd 2024** that runs over approximately 3 months covering several topics conduting in multiple sessions each week. In the initial days, we will cover brief overview of the data types and data organization that the Neuroimaging community prefer, followed by basics in data handling and visualization such that the stage is set for actual data analysis/workflows. For a precise outline of this workshop, please consult the respective [page](outline "Outline of the workshop").
+ This workshop is conducted every **Saturday** starting from **August 3rd 2024** that runs over approximately 3 months covering several topics conduting in multiple sessions each week. In the initial days, we will cover brief overview of the data types and data organization that the Neuroimaging community prefer, followed by basics in data handling and visualization such that the stage is set for actual data analysis/workflows. For a precise outline of this workshop, please consult the respective [page](outline "Outline of the workshop").
 
 This workshop utilizes pre-coded packages or softwares that are easy to download and install. Mostly
 coded in Python, MATLAB, C++ etc. For hands on practicising, we can rely on Jupyter notebooks. 
@@ -33,7 +34,12 @@ that cover several topics as outlined below.
 # Registration procedure
 
 This workshop is free but registration is mandatory.
-A brief 250 words statement of purpose along with lab details is required
-for the registration.
+
+A brief statement of purpose (250 words max.) along with lab details is mandatory
+for the registration. If you are a Master's or PhD student, topic and domain of the thesis
+is desired.
+
+
+# Hope to see you soon!!
 
 [^1]: Place to sit will be decided soon!!
