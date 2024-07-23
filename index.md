@@ -39,6 +39,8 @@ A brief statement of purpose (250 words max.) along with lab details is mandator
 for the registration. If you are a Master's or PhD student, topic and domain of the thesis
 is desired.
 
+You can register [here](https://forms.gle/QwmFUfnuKaRbV1Hz8)
+
 
 # Hope to see you soon!!
 
