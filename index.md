@@ -44,4 +44,8 @@ You can register [here](https://forms.gle/QwmFUfnuKaRbV1Hz8)
 
 # Hope to see you soon!!
 
+# Any queries/enquiries?
+
+Contact: kamalaker.dadi@research.iiit.ac.in
+
 [^1]: Place to sit will be decided soon!!
