@@ -7,7 +7,7 @@ order: 1
 # Welcome!
 Hello everyone and welcome to the "MRI and EEG data analysis" workshop that will take place
 at the International Institute of Information Technology Hyderabad organized by Cognitive
-Science Lab, IIITH.
+Science Lab & IHub-Data, IIITH.
 
 # Overview of the workshop
 
@@ -49,3 +49,5 @@ You can register [here](https://forms.gle/QwmFUfnuKaRbV1Hz8)
 Contact: kamalaker.dadi@research.iiit.ac.in
 
 [^1]: Place to sit will be decided soon!!
+
+![](static/iiith.jpg "IIITH") ![](static/ihub-data.svg "IHub-Data")
