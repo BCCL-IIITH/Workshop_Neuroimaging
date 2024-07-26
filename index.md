@@ -51,7 +51,7 @@ Contact: kamalaker.dadi@research.iiit.ac.in
 ___
 
 <figure>
-    <img src="static/iiith.jpg"
+    <img src="static/IIITH.jpg"
          alt="IIITH" width="150" height="80">
     <img src="static/ihub-data.svg"
          alt="IIITH" width="150" height="80">
