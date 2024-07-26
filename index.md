@@ -54,7 +54,7 @@ ___
 
 <figure>
     <img src="static/iiith.jpg"
-         alt="IIITH" width="200" height="100">
+         alt="IIITH" width="150" height="80">
     <img src="static/ihub-data.svg"
-         alt="IIITH" width="200" height="200">
+         alt="IIITH" width="150" height="80">
 </figure>
