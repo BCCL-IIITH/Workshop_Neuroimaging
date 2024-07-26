@@ -23,7 +23,7 @@ All the content will be provided in Jupyter notebooks or bash scripts.
 
 # When is the workshop?
 
-The workshop will start from **August 3rd 2024 3-5pm**[^1], every Saturday and
+The workshop will start from **August 3rd 2024 3-5pm**, every Saturday and
 it continues for 3 months. Each week every Saturday we will have sessions
 that cover several topics as outlined below.
 
@@ -47,8 +47,6 @@ You can register [here](https://forms.gle/QwmFUfnuKaRbV1Hz8)
 # Any queries/enquiries?
 
 Contact: kamalaker.dadi@research.iiit.ac.in
-
-[^1]: Place to sit will be decided soon!!
 
 ___
 
