@@ -50,4 +50,5 @@ Contact: kamalaker.dadi@research.iiit.ac.in
 
 [^1]: Place to sit will be decided soon!!
 
-![](static/iiith.jpg "IIITH"){width='15'} ![](static/ihub-data.svg "IHub-Data"){width='15'}
+[![](static/iiith.jpg "IIITH")](https://www.iiit.ac.in/)
+[![](static/ihub-data.svg "IHub-Data")](https://ihub-data.iiit.ac.in/)
