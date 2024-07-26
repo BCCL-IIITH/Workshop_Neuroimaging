@@ -54,8 +54,7 @@ ___
 
 <figure>
     <img src="static/iiith.jpg"
-         alt="IIITH" width="100" height="20">
+         alt="IIITH" width="200" height="200">
+    <img src="static/ihub-data.svg"
+         alt="IIITH" width="200" height="200">
 </figure>
-
-[![](static/iiith.jpg "IIITH")](https://www.iiit.ac.in/)
-[![](static/ihub-data.svg "IHub-Data")](https://ihub-data.iiit.ac.in/)
