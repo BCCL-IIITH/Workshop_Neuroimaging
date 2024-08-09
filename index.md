@@ -26,6 +26,10 @@ All the content will be provided in Jupyter notebooks or bash scripts.
 The workshop will start from **August 10th 2024 3-5pm**, every Saturday and it continues for entire Monsoon semester. Each week every Saturday we will have sessions
 that cover several topics as outlined below.
 
+# Where is the workshop?
+
+CR1 in Vindhya Building, IIITH
+
 # Skeleton of the workshop
 
 [Outline of the planned topics](outline "Outline of the workshop")
