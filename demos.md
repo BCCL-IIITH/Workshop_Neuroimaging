@@ -14,7 +14,7 @@
 |:---:|
 | [![rsfMRI](demos/markers.png "Markers: 39 regions")](demos/markers.html)|
 
-FSLEyes
+## FSLEyes
 
 |Harvard Oxford Atlas|
 |:---:|
