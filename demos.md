@@ -6,3 +6,8 @@
 | Correlation matrix on a glass brain |
 |:---:|
 | [![rsfMRI](demos/conn.png "Correlation on 39 regions")](demos/connectome.html)|
+
+
+| Regions as markers on a glass brain |
+|:---:|
+| [![rsfMRI](demos/markers.png "Markers: 39 regions")](demos/markers.html)|
