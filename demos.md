@@ -1,3 +1,5 @@
+## Nilearn
+
 | Viewing 3D MR brain image |
 |:---:|
 | [![T1 weighted](demos/mni.jpg "MNI template")](demos/mni.html)|
@@ -11,3 +13,10 @@
 | Regions as markers on a glass brain |
 |:---:|
 | [![rsfMRI](demos/markers.png "Markers: 39 regions")](demos/markers.html)|
+
+FSLEyes
+
+|Harvard Oxford Atlas|
+|:---:|
+
+    fsleyes /usr/local/fsl/data/atlases/HarvardOxford/HarvardOxford-cort-maxprob-thr25-2mm.nii.gz
