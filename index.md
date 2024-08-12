@@ -28,7 +28,9 @@ that cover several topics as outlined below.
 
 # Where is the workshop?
 
-CR1 in Vindhya Building, IIITH
+August 10th CR1 in Vindhya Building, IIITH
+
+From August 17th, **SH1** in Vindhya Building, IIITH
 
 # Skeleton of the workshop
 
