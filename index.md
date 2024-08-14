@@ -36,16 +36,13 @@ From August 17th, **SH1** in Vindhya Building, IIITH
 
 [Outline of the planned topics](outline "Outline of the workshop")
 
-# Registration procedure
+# Registration is closed
 
 This workshop is free but registration is mandatory.
 
 A brief statement of purpose (250 words max.) along with lab details is mandatory
 for the registration. If you are a Master's or PhD student, topic and domain of the thesis
 is desired.
-
-You can register [here](https://docs.google.com/forms/d/e/1FAIpQLScw7GzhZ70uKTTmq6vX4W5FgQQgB3lRfcgILDkrOyoI8rGx3w/viewform?usp=sf_link)
-
 
 # Hope to see you soon!!
 

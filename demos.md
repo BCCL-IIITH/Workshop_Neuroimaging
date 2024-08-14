@@ -22,3 +22,7 @@
 ## MRtrix3 - Tractogram visualization
 
     mrview dwi_den_preproc_unbiased.mif -tractography.load smallerTracks_200k.tck
+
+| MRI basics |
+|:---:|
+| [![rsfMRI](demos/markers.png "Markers: 39 regions")](demos/mri_basics.html)|
