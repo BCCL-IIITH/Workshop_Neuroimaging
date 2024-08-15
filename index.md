@@ -38,11 +38,11 @@ From August 17th, **SH1** in Vindhya Building, IIITH
 
 # Registration is closed
 
-This workshop is free but registration is mandatory.
+~~This workshop is free but registration is mandatory.~~
 
-A brief statement of purpose (250 words max.) along with lab details is mandatory
-for the registration. If you are a Master's or PhD student, topic and domain of the thesis
-is desired.
+~~A brief statement of purpose (250 words max.) along with lab details is mandatory~~
+~~for the registration. If you are a Master's or PhD student, topic and domain of the thesis~~
+~~is desired.~~
 
 # Hope to see you soon!!
 

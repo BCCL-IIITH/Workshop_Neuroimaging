@@ -4,6 +4,8 @@ Our **very optimistic** schedule looks as follows:
 
 ## One Session on [Introduction to MRI]()
 
+[Things to do before the workshop](https://bccl-iiith.github.io/Workshop_Neuroimaging/setup "Things to do before the workshop")
+
 | Topics |
 |:-----:|
 |  [From the scanner to the computer]() |
