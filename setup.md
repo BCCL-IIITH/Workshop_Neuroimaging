@@ -29,8 +29,26 @@ Pip is the most common package installer for Python. This session requires a few
 
     conda install -c conda-forge dcm2niix
 
+## Install MRIcron GUI interface for DICOM to Nifti converter
+
+### Alternative to command line execution
+
+<a href="https://people.cas.sc.edu/rorden/mricron/install.html"> `MRIcron installation`</a>
+
 ## Test launching Python Interface
 
-Jupyter notebook
+Jupyterlab notebook
+
 IPython Interpreter
+
 Google Colab
+
+## Install FSL for brain templates and fMRI processing
+
+<a href="https://fsl.fmrib.ox.ac.uk/fsl"> `FSL - FMRIB Software Library`</a>
+
+## Install freesurfer for T1-weighted MR processing
+
+<a href="https://surfer.nmr.mgh.harvard.edu/"> `Freesurfer Software Suite`</a>
+
+
