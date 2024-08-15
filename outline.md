@@ -1,10 +1,10 @@
 # Outline
 
+[Things to do before the workshop](https://bccl-iiith.github.io/Workshop_Neuroimaging/setup "Things to do before the workshop")
+
 Our **very optimistic** schedule looks as follows: 
 
-## One Session on [Introduction to MRI]()
-
-[Things to do before the workshop](https://bccl-iiith.github.io/Workshop_Neuroimaging/setup "Things to do before the workshop")
+## One Session on [Summary of the session](https://bccl-iiith.github.io/Workshop_Neuroimaging/intro "Summary of the session")
 
 | Topics |
 |:-----:|

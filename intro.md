@@ -1,4 +1,4 @@
-# Summary and Setup
+# Summary of the introductory session: Understanding MRI scans and Breadth of datasets & Softwares
 
 The goal of this session is to introduce you to several concepts in handling
  the magnetic resonance imaging (MRI) data acquired on humans. This session
