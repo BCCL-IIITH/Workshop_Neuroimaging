@@ -35,12 +35,13 @@ Pip is the most common package installer for Python. This session requires a few
 
 <a href="https://people.cas.sc.edu/rorden/mricron/install.html"> `MRIcron installation`</a>
 
-## Test launching Python Interface
+## Install Python Interface
 
 [Jupyter notebook](https://jupyter.org/)
 
 [IPython Interpreter](https://ipython.org/install.html)
 
+### No installation as such, just use with Google login
 [Google Colab](https://colab.research.google.com/)
 
 ## Install FSL for brain templates and fMRI processing
@@ -52,6 +53,19 @@ Pip is the most common package installer for Python. This session requires a few
 <a href="https://surfer.nmr.mgh.harvard.edu/"> `Freesurfer Software Suite`</a>
 
 ## [Installing Python Packages from a Jupyter Notebook](https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/)
+
+
+# After installation, please check the installation
+
+For e.g., Try importing nilearn in a python / iPython session:
+
+```python
+import nilearn
+```
+If no error is raised, you have installed nilearn correctly.
+
+Similary, check for `nibabel` `pandas`, etc.
+
 
 # Download sample DICOM data
 
