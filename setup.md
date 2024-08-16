@@ -41,8 +41,7 @@ Pip is the most common package installer for Python. This session requires a few
 
 [IPython Interpreter](https://ipython.org/install.html)
 
-### No installation as such, just use with Google login
-[Google Colab](https://colab.research.google.com/)
+[Google Colab](https://colab.research.google.com/) No installation as such, just use with Google login
 
 ## Install FSL for brain templates and fMRI processing
 
