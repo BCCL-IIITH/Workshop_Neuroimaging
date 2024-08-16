@@ -78,8 +78,9 @@ Command line download option for Linux/MaxOS
 
 ## After the download
 
-Navigate to the directory where data is downloaded, the you can unzip and extract files from the tarball (tar archive) using the following command:
+Navigate to the directory where data is downloaded, then you can unzip and extract files from the tarball (tar archive) using the following command:
 
     tar -xvzf 0219191_mystudy-0219-1114.tar.gz
+    gzip -d 0219191_mystudy-0219-1114/dcm/*dcm.gz
 
 Data source: A Big Thanks to [The Princeton Handbook for Reproducible Neuroimaging¶](https://brainhack-princeton.github.io/handbook/index.html)
