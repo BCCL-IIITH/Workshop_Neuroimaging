@@ -51,6 +51,8 @@ Google Colab
 
 <a href="https://surfer.nmr.mgh.harvard.edu/"> `Freesurfer Software Suite`</a>
 
+## [Installing Python Packages from a Jupyter Notebook](https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/)
+
 # Download sample DICOM data
 
 You can download the sample data either using internet browser or via command line.
