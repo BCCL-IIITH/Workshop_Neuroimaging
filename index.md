@@ -3,8 +3,13 @@ layout: default
 title: Home
 order: 1
 ---
+
 <div class="note"></div>       
-**NOTE**: Next session is on 17/08/2024 at SH1, Vindhya Building [Preparation before the session](https://bccl-iiith.github.io/Workshop_Neuroimaging/setup)   
+**NOTE**: Next session is on 17/08/2024 at SH1, Vindhya Building [Preparation before the session](https://bccl-iiith.github.io/Workshop_Neuroimaging/setup)
+
+<div class="note">       
+    **NOTE**: Next session is on 17/08/2024 at SH1, Vindhya Building [Preparation before the session](https://bccl-iiith.github.io/Workshop_Neuroimaging/setup)
+</div>
 
 # Welcome!
 Hello everyone and welcome to the "MRI and EEG data analysis" workshop that will take place
