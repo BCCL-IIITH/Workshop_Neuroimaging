@@ -10,6 +10,14 @@ order: 1
 <div class="note"></div>       
 **NOTE**: Next session is on 17/08/2024 at SH1, Vindhya Building [Preparation before the session](https://bccl-iiith.github.io/Workshop_Neuroimaging/setup)
 
+<div class="alert alert-block alert-info"> <b>NOTE</b> Use blue boxes for Tips and notes. </div>
+
+<div class="alert alert-block alert-success"> Use green boxes sparingly, and only for some specific purpose that the other boxes can't cover. For example, if you have a lot of related content to link to, maybe you decide to use green boxes for related links from each section of a notebook. </div>
+
+<div class="alert alert-block alert-warning"> Use yellow boxes for examples that are not inside code cells, or use for mathematical formulas if needed. </div>
+
+<div class="alert alert-block alert-danger"> In general, just avoid the red boxes. </div>
+
 # Welcome!
 Hello everyone and welcome to the "MRI and EEG data analysis" workshop that will take place
 at the International Institute of Information Technology Hyderabad organized by Cognitive
