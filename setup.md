@@ -67,3 +67,4 @@ Navigate to the directory where data is downloaded, the you can unzip and extrac
 
     tar -xvzf 0219191_mystudy-0219-1114.tar.gz
 
+Data source: A Big Thanks to [The Princeton Handbook for Reproducible Neuroimaging¶](https://brainhack-princeton.github.io/handbook/index.html)
