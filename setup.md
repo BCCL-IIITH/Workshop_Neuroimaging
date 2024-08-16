@@ -6,9 +6,11 @@
 > - Gaël Varoquaux's <a href="https://gael-varoquaux.info/scipy-lecture-notes/">Scipy Lecture Notes</a> 
 > - J. R. Johansson <a href="http://github.com/jrjohansson/scientific-python-lectures">IPython notebooks</a> 
 
-# Installations
+# Installation options at your will
 
-## Python 3 via Miniconda (recommended)
+## Python 3 via Miniconda
+After conda installation, one can create a separate conda environment specific to this workshop, without necessarily disturbing your own research specific installation packaging versions.
+
     conda create -n nimg_workshop python=3.9
     conda activate nimg_workshop
 
