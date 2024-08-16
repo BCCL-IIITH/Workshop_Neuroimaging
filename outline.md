@@ -1,14 +1,18 @@
 # Outline
 
-## [Overview of the workshop slides on 10/08/2024](lectures/10082024_NIMG_Workshop_Overview.pdf "Overview of the workshop")
+# Opening session on 10/08/2024
 
-[Things to do before the workshop](https://bccl-iiith.github.io/Workshop_Neuroimaging/setup "Things to do before the workshop")
+## [Overview of the workshop](lectures/10082024_NIMG_Workshop_Overview.pdf "Overview of the workshop")
 
-Our **very optimistic** schedule looks as follows: 
+## [Demos](https://bccl-iiith.github.io/Workshop_Neuroimaging/demos)
 
-## 17/08/2024 [Summary of the session](https://bccl-iiith.github.io/Workshop_Neuroimaging/intro "Summary of the session")
+# Upcoming session on 17/08/2024
 
-| Topics |
+## [Summary of the session](https://bccl-iiith.github.io/Workshop_Neuroimaging/intro "Summary of the session")
+
+## [Things to do before this session](https://bccl-iiith.github.io/Workshop_Neuroimaging/setup "Things to do before this session")
+
+| Topics in this session |
 |:-----:|
 |  [From the scanner to the computer]() |
 |  [Data organization with PyBIDS]() |
