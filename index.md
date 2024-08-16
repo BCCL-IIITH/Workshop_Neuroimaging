@@ -4,14 +4,6 @@ title: Home
 order: 1
 ---
 
-
-> [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
-
-<div class="note">       
-    **NOTE**: Source [here](//developer.run)
-</div>
-
 <div class="note"></div>       
 **NOTE**: Source [here](//developer.run)   
 
