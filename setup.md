@@ -1,4 +1,4 @@
-# Before the workshop
+# Before the workshop: Installations and Data downloading
 
 > # Hands-on 
 > - Software Carpentry <a href="https://swcarpentry.github.io/shell-novice">Unix</a> and/or <a href="https://swcarpentry.github.io/python-novice-inflammation">Python</a>
@@ -50,5 +50,21 @@ Google Colab
 ## Install freesurfer for T1-weighted MR processing
 
 <a href="https://surfer.nmr.mgh.harvard.edu/"> `Freesurfer Software Suite`</a>
+
+# Download sample DICOM data
+
+You can download the sample data either using internet browser or via command line.
+
+From an internet browser simply navigate to this [link](https://zenodo.org/record/3677090) and click Download option there.
+
+Command line download option for Linux/MaxOS
+
+> wget https://zenodo.org/record/3677090/files/0219191_mystudy-0219-1114.tar.gz
+
+## After the download
+
+Navigate to the directory where data is downloaded, the you can unzip and extract files from the tarball (tar archive) using the following command:
+
+> tar -xvzf 0219191_mystudy-0219-1114.tar.gz
 
 

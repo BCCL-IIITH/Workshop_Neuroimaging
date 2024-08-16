@@ -7,10 +7,6 @@ order: 1
 <div class="note"></div>       
 **NOTE**: Next session is on 17/08/2024 at SH1, Vindhya Building [<b>Preparation before the session</b>](https://bccl-iiith.github.io/Workshop_Neuroimaging/setup)
 
-<div class="alert alert-block alert-warning">
-<b>Example:</b> Use blue boxes (alert-info) for tips and notes. 
-If it’s a note, you don’t have to include the word “Note”.
-</div>
 
 # Welcome!
 Hello everyone and welcome to the "MRI and EEG data analysis" workshop that will take place
