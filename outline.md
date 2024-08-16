@@ -1,8 +1,8 @@
 # Outline
 
-[Things to do before the workshop](https://bccl-iiith.github.io/Workshop_Neuroimaging/setup "Things to do before the workshop")
+## [Overview of the workshop slides on 10/08/2024]((lectures/10082024_NIMG_Workshop_Overview.pdf) "Overview of the workshop")
 
-[Opening session](lectures/10082024_NIMG_Workshop_Overview.pdf)
+[Things to do before the workshop](https://bccl-iiith.github.io/Workshop_Neuroimaging/setup "Things to do before the workshop")
 
 Our **very optimistic** schedule looks as follows: 
 
