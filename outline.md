@@ -2,6 +2,8 @@
 
 # Opening session on 10/08/2024
 
+## [Prof. Bapi Raju Lecture: Big Data in Cognitive Neuroscience: Opportunities & Challenges](lectures/IIITH_Neuroimaging_workshop_IntroLec_10Aug2024_upload.pdf "Big Data in CogSci")
+
 ## [Overview of the workshop](lectures/10082024_NIMG_Workshop_Overview.pdf "Overview of the workshop")
 
 ## [Demos](https://bccl-iiith.github.io/Workshop_Neuroimaging/demos)
