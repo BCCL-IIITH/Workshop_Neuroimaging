@@ -4,6 +4,17 @@ title: Home
 order: 1
 ---
 
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+<div class="note">       
+    **NOTE**: Source [here](//developer.run)
+</div>
+
+<div class="note"></div>       
+**NOTE**: Source [here](//developer.run)   
+
 # Welcome!
 Hello everyone and welcome to the "MRI and EEG data analysis" workshop that will take place
 at the International Institute of Information Technology Hyderabad organized by Cognitive

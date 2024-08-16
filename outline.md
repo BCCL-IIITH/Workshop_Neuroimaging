@@ -2,6 +2,8 @@
 
 [Things to do before the workshop](https://bccl-iiith.github.io/Workshop_Neuroimaging/setup "Things to do before the workshop")
 
+[Opening session](lectures/10082024_NIMG_Workshop_Overview.pdf)
+
 Our **very optimistic** schedule looks as follows: 
 
 ## One Session on [Summary of the session](https://bccl-iiith.github.io/Workshop_Neuroimaging/intro "Summary of the session")
