@@ -5,7 +5,7 @@ order: 1
 ---
 
 <div class="note"></div>       
-**NOTE**: Next session is on 17/08/2024, 3-5pm at SH1, Vindhya Building [<b>Preparation before the session</b>](https://bccl-iiith.github.io/Workshop_Neuroimaging/setup)
+**NOTE**: Next session is on 17/08/2024, 3-5pm at SH1, Vindhya Building, IIITH. [<b>Preparation before the session</b>](https://bccl-iiith.github.io/Workshop_Neuroimaging/setup)
 
 
 # Welcome!
