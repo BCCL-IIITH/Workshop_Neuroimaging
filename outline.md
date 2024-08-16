@@ -1,12 +1,12 @@
 # Outline
 
-## [Overview of the workshop slides on 10/08/2024]((lectures/10082024_NIMG_Workshop_Overview.pdf) "Overview of the workshop")
+## [Overview of the workshop slides on 10/08/2024](lectures/10082024_NIMG_Workshop_Overview.pdf "Overview of the workshop")
 
 [Things to do before the workshop](https://bccl-iiith.github.io/Workshop_Neuroimaging/setup "Things to do before the workshop")
 
 Our **very optimistic** schedule looks as follows: 
 
-## One Session on [Summary of the session](https://bccl-iiith.github.io/Workshop_Neuroimaging/intro "Summary of the session")
+## 17/08/2024 [Summary of the session](https://bccl-iiith.github.io/Workshop_Neuroimaging/intro "Summary of the session")
 
 | Topics |
 |:-----:|
