@@ -14,6 +14,8 @@
 
 ## [Things to do before this session](https://bccl-iiith.github.io/Workshop_Neuroimaging/setup "Things to do before this session")
 
+## [DICOM2Nifti](notebooks/dicom2nifti.ipynb "Dicom2Nifti")
+
 | Topics in this session |
 |:-----:|
 |  [From the scanner to the computer]() |
