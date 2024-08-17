@@ -8,7 +8,7 @@
 
 ## [Demos](https://bccl-iiith.github.io/Workshop_Neuroimaging/demos)
 
-# Upcoming session on 17/08/2024
+# Session on 17/08/2024
 
 ## [Summary of the session](https://bccl-iiith.github.io/Workshop_Neuroimaging/intro "Summary of the session")
 
@@ -16,12 +16,13 @@
 
 ## [DICOM2Nifti](notebooks/dicom2nifti.ipynb "Dicom2Nifti")
 
-| Topics in this session |
+## [DICOM2Nifti](notebooks/unboxing_nifti_images_with_nibabel.ipynb "Understanding MRI data with NiBabel")
+
+## [DICOM2Nifti](notebooks/Nilearn_for_NIMG_nifti.ipynb "Understanding MRI data with Nilearn")
+
+| Topics not yet covered |
 |:-----:|
-|  [From the scanner to the computer]() |
 |  [Data organization with PyBIDS]() |
-|  [Basic visualization of open MRI data]() |
-|  [Basics in data handling via nibabel and nilearn]() |
 |  [Bascis in data handling via Pandas and NumPy]() |
 
 
