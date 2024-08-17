@@ -25,6 +25,10 @@ Pip is the most common package installer for Python. This session requires a few
 
 <a href="https://pandas.pydata.org/(https://pandas.pydata.org/)">`pandas`</a> is for non-imaging data loading
 
+    pip install matplotlib
+
+<a href="https://matplotlib.org/(https://matplotlib.org/)">`matplotlib`</a> is for visualization
+
 ## Install dcm2niix
 
 <a href="https://github.com/rordenlab/dcm2niix#install"> `dcm2niix`</a> software package for converting neuroimaging data from the DICOM format that is exported from the MRI scanner to the NIfTI format. Detailed installation instructions for various operating systems can be found on the `dcm2niix` <a href="https://github.com/rordenlab/dcm2niix#install"> README</a>. With the Anaconda Python distribution which is recommended, `dcm2niix` can be installed by:
