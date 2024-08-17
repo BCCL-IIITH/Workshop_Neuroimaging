@@ -16,9 +16,9 @@
 
 ## [DICOM2Nifti](notebooks/dicom2nifti.ipynb "Dicom2Nifti")
 
-## [DICOM2Nifti](notebooks/unboxing_nifti_images_with_nibabel.ipynb "Understanding MRI data with NiBabel")
+## [Unboxing Nifti images with Nibabel](notebooks/unboxing_nifti_images_with_nibabel.ipynb "Understanding MRI data with NiBabel")
 
-## [DICOM2Nifti](notebooks/Nilearn_for_NIMG_nifti.ipynb "Understanding MRI data with Nilearn")
+## [MRI image loading & visualization with Nilearn](notebooks/Nilearn_for_NIMG_nifti.ipynb "Understanding MRI data with Nilearn")
 
 | Topics not yet covered |
 |:-----:|
