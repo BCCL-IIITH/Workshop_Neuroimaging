@@ -14,6 +14,8 @@
 
 ## [Things to do before this session](https://bccl-iiith.github.io/Workshop_Neuroimaging/setup "Things to do before this session")
 
+## [Very basics in MRI acquisition and types of MR tissues](lectures/17082024_Understanding_data_NIMG_Workshop.pdf "Basics")
+
 ## [DICOM2Nifti](notebooks/dicom2nifti.ipynb "Dicom2Nifti")
 
 ## [Unboxing Nifti images with Nibabel](notebooks/unboxing_nifti_images_with_nibabel.ipynb "Understanding MRI data with NiBabel")
