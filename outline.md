@@ -35,7 +35,9 @@
 
 # Upcoming session on 31/08/2024
 
-## [Practical demo on the brain anatomical image analysis processing workflow with Freesurfer]()
+## [Installations required for this session](https://bccl-iiith.github.io/Workshop_Neuroimaging/setup "Installations for 31082024")
+
+## [Practical demo on the brain anatomical image analysis processing workflow with Freesurfer]((https://bccl-iiith.github.io/Workshop_Neuroimaging/setup "Installations for 31082024")
 
 ## [Statistical comparisons between Alzheimer's disease vs Controls groups]()
 
