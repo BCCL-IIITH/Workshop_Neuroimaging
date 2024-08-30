@@ -34,10 +34,10 @@
 
 ## [Practical demo on the brain anatomical image analysis processing workflow with Freesurfer]()
 
-| Topics |
+## [Statistical comparisons between Alzheimer's disease vs Controls groups]()
+
+| Topics still remained with T1w images |
 |:-----:|
-|  [T1 weighted imaging workflow - Cortical thickness, etc.]() |
-|  [Cortical thickness comparison in Alzheimer's disease and Controls]() |
 |  [Voxel-based morphometry]() |
 |  [Lesion to Symptom mapping]() |
 
