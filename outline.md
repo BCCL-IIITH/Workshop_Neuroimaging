@@ -1,5 +1,8 @@
 # Outline
 
+<div class="note"></div>
+**NOTE**: Upcoming session is on **31/08/2024**
+
 # Opening session on 10/08/2024
 
 ## [Prof. Bapi Raju Lecture: Big Data in Cognitive Neuroscience: Opportunities & Challenges](lectures/IIITH_Neuroimaging_workshop_IntroLec_10Aug2024_upload.pdf "Big Data in CogSci")
@@ -30,7 +33,7 @@
 
 ## [Freesurfer T1w Preprocessing](lectures/Freesurfer_T1w_Preprocessing.pdf)
 
-# Session on 31/08/2024
+# Upcoming session on 31/08/2024
 
 ## [Practical demo on the brain anatomical image analysis processing workflow with Freesurfer]()
 
