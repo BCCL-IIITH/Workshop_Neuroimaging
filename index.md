@@ -5,7 +5,10 @@ order: 1
 ---
 
 <div class="note"></div>       
-**NOTE**: Content from the 17/08/2024 session is uploaded. Please check [<b>here</b>](outline)
+**NOTE**: Next session is on 31082024 on the practical exercise showing the brain anatomical analysis with the Freesurfer. Please check [<b>here</b>](outline)
+
+<div class="note"></div>       
+**NOTE**: Content from the 24/08/2024 session is uploaded. Please check [<b>here</b>](outline)
 
 
 # Welcome!

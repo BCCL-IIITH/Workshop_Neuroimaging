@@ -22,19 +22,18 @@
 
 ## [MRI image loading & visualization with Nilearn](notebooks/Nilearn_for_NIMG_nifti.ipynb "Understanding MRI data with Nilearn")
 
-| Topics not yet covered |
-|:-----:|
-|  [Data organization with PyBIDS]() |
-|  [Bascis in data handling via Pandas and NumPy]() |
+# Session on 24/08/2024
 
+## [Overview of the structural T1w image preprocessing & analysis]()
 
-## Two sessions on Structural MRI and its applications (T1 weighted)
+## [References]()
+
+# Session on 31/08/2024
+
+## [Practical demo on the brain anatomical image analysis processing workflow with Freesurfer]()
 
 | Topics |
 |:-----:|
-|  [Imaging modalities in Structural MRI]() |
-|  [Preprocessing workflow]() |
-|  [After preprocessing: Quality control]() |
 |  [T1 weighted imaging workflow - Cortical thickness, etc.]() |
 |  [Cortical thickness comparison in Alzheimer's disease and Controls]() |
 |  [Voxel-based morphometry]() |
