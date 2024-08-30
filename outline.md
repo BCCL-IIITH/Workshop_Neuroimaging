@@ -1,7 +1,7 @@
 # Outline
 
 <div class="note"></div>
-**NOTE**: Upcoming session is on **31/08/2024**
+**NOTE**: Upcoming session is on **31/08/2024**. Installations and data download, please check [<b>here</b>](https://bccl-iiith.github.io/Workshop_Neuroimaging/setup_31_08_2024)
 
 # Opening session on 10/08/2024
 
