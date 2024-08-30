@@ -24,9 +24,11 @@
 
 # Session on 24/08/2024
 
-## [Overview of the structural T1w image preprocessing & analysis]()
+## [Lecture on the Structural T1w image preprocessing & analysis](lectures/Structural_T1w_Image_Preprocessing_Analysis.pdf)
 
-## [References]()
+## [Applications of T1w images to assess the effects of Meditation on Brain in Dementia Patients](lectures/Effects_of_Meditation_on_Brain_in_Dementia_Patients.pdf)
+
+## [Freesurfer T1w Preprocessing](lectures/Freesurfer_T1w_Preprocessing.pdf)
 
 # Session on 31/08/2024
 
