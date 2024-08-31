@@ -37,7 +37,11 @@
 
 ## [Installations required for this session](https://bccl-iiith.github.io/Workshop_Neuroimaging/setup_31_08_2024 "Installations for 31082024")
 
+## [Commands for Freeview](freeview_commands/freeview.rst "Freeview commands")
+
 ## [Practical demo on the brain anatomical image analysis processing workflow with Freesurfer](https://bccl-iiith.github.io/Workshop_Neuroimaging/setup_31_08_2024 "Installations for 31082024")
+
+## [Exploring ROIs for statistical comparisons](notebooks/exploring_ROIs.ipynb)
 
 ## [Statistical comparisons between Alzheimer's disease vs Controls groups]()
 
