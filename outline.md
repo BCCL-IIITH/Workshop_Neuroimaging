@@ -39,7 +39,7 @@
 
 ## [Commands for Freeview](freeview_commands/freeview.rst "Freeview commands")
 
-## [Practical demo on the brain anatomical image analysis processing workflow with Freesurfer](https://bccl-iiith.github.io/Workshop_Neuroimaging/setup_31_08_2024 "Installations for 31082024")
+## [Practical demo on the brain anatomical image analysis processing workflow with Freesurfer](lectures/31082024_NIMG_Workshop_Anat_FS.pdf "Anatomical analysis with FreeSurfer")
 
 ## [Exploring ROIs for statistical comparisons](notebooks/exploring_ROIs.ipynb)
 
