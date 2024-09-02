@@ -1,7 +1,7 @@
 # Outline
 
 <div class="note"></div>
-**NOTE**: Upcoming session is on **31/08/2024**. Installations and data download, please check [<b>here</b>](https://bccl-iiith.github.io/Workshop_Neuroimaging/setup_31_08_2024)
+**NOTE**: Content from the **31/08/2024** session is uploaded. Please check from **Session on 31/08/2024**.
 
 # Opening session on 10/08/2024
 
@@ -33,7 +33,7 @@
 
 ## [Freesurfer T1w Preprocessing](lectures/Freesurfer_T1w_Preprocessing.pdf)
 
-# Upcoming session on 31/08/2024
+# Session on 31/08/2024
 
 ## [Installations required for this session](https://bccl-iiith.github.io/Workshop_Neuroimaging/setup_31_08_2024 "Installations for 31082024")
 

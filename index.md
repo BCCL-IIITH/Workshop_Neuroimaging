@@ -4,11 +4,11 @@ title: Home
 order: 1
 ---
 
-<div class="note"></div>       
-**NOTE**: Next session is on **31/08/2024** on the practical exercise showing the brain anatomical analysis with the Freesurfer. Please check the outline of the upcoming session [<b>here</b>](outline) and installations [<b>here</b>](setup_31_08_2024)
+<div class="note"></div>
+**NOTE**: Next session will be on 14/09/2024.
 
 <div class="note"></div>       
-**NOTE**: Content from the **24/08/2024** session is uploaded. Please check [<b>here</b>](outline)
+**NOTE**: Content from the **31/08/2024** session is uploaded. Please check [<b>here</b>](outline)
 
 
 # Welcome!
