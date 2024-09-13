@@ -5,11 +5,7 @@ order: 1
 ---
 
 <div class="note"></div>
-**NOTE**: Next session will be on 14/09/2024.
-
-<div class="note"></div>       
-**NOTE**: Content from the **31/08/2024** session is uploaded. Please check [<b>here</b>](outline)
-
+**NOTE**: Upcoming session is on 14/09/2024 which talks about Diffusion MRI and its processing pipelines, 3-5pm, SH1
 
 # Welcome!
 Hello everyone and welcome to the "MRI and EEG data analysis" workshop that will take place

@@ -1,6 +1,9 @@
 # Outline
 
 <div class="note"></div>
+**NOTE**: Upcoming session is on 14/09/2024 which talks about Diffusion MRI and its processing pipelines
+
+<div class="note"></div>
 **NOTE**: Content from the **31/08/2024** session is uploaded. Please check from **Session on 31/08/2024**.
 
 # Opening session on 10/08/2024
@@ -50,7 +53,7 @@
 |  [Voxel-based morphometry]() |
 |  [Lesion to Symptom mapping]() |
 
-## Two sessions on Diffusion MRI and Visualizations
+## Upcoming session on 14/09/2024 about Diffusion MRI and Visualizations
 
 | Topics |
 |:-----:|
