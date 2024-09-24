@@ -1,10 +1,10 @@
 # Outline
 
 <div class="note"></div>
-**NOTE**: Upcoming session is on 14/09/2024 which talks about Diffusion MRI and its processing pipelines
+**NOTE**: Upcoming session is on 28/09/2024 which starts doing functional Magnetic Resonance Imaging and its analysis pipelines.
 
 <div class="note"></div>
-**NOTE**: Content from the **31/08/2024** session is uploaded. Please check from **Session on 31/08/2024**.
+**NOTE**: Content from the **14/09/2024** session is uploaded. Please check from **Session on 14/09/2024**.
 
 # Opening session on 10/08/2024
 
@@ -53,9 +53,11 @@
 |  [Voxel-based morphometry]() |
 |  [Lesion to Symptom mapping]() |
 
-## Upcoming session on 14/09/2024 about Diffusion MRI and Visualizations
+## Session on 14/09/2024
 
-| Topics |
+## [Diffusion Tensor Imaging](lectures/14092024_Diffusion_Tensor_Imaging.pptx)
+
+| Topics still remained with DTI analysis |
 |:-----:|
 |  [Exporing preprocessing tools for dMRI]() |
 |  [After preprocessing: Quality control]() |
@@ -65,7 +67,7 @@
 |  [Estimating structural connectivity]() |
 |  [Structure to Function coupling example]() |
 
-## Four sessions on Functional MRI
+## Upcoming session 28/09/2024 is on Functional MRI
 
 | Topics |
 |:-----:|

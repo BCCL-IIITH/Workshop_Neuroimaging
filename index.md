@@ -5,7 +5,7 @@ order: 1
 ---
 
 <div class="note"></div>
-**NOTE**: Upcoming session is on 14/09/2024 which talks about Diffusion MRI and its processing pipelines, 3-5pm, SH1
+**NOTE**: Upcoming session is on 28/09/2024 which starts doing functional Magnetic Resonance Imaging and its analysis pipelines, 3-5pm, SH1
 
 # Welcome!
 Hello everyone and welcome to the "MRI and EEG data analysis" workshop that will take place
