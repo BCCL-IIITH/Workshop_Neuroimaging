@@ -67,7 +67,7 @@
 |  [Estimating structural connectivity]() |
 |  [Structure to Function coupling example]() |
 
-## Upcoming session 28/09/2024 is on Functional MRI
+## [Upcoming session 28/09/2024 is on Functional MRI](notebooks/NIMG_workshop_fMRI_analysis.ipynb "Analyzing fMRI data with Nilearn")
 
 | Topics |
 |:-----:|
