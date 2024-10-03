@@ -1,7 +1,7 @@
 # Outline
 
 <div class="note"></div>
-**NOTE**: Upcoming session is on 28/09/2024 which starts doing functional Magnetic Resonance Imaging and its analysis pipelines.
+**NOTE**: Upcoming session is on 05/10/2024 at **3-5pm, SH1** which covers - Extraction of functional connectivity (ROI-ROI, Seed-Voxel), - Statistical comparisons between two groups, - Functional connectivity based Brain-Age prediction
 
 <div class="note"></div>
 **NOTE**: Content from the **28/09/2024** session is uploaded. Please check from **Session on 28/09/2024**.
