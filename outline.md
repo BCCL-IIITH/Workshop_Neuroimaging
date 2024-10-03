@@ -4,7 +4,7 @@
 **NOTE**: Upcoming session is on 28/09/2024 which starts doing functional Magnetic Resonance Imaging and its analysis pipelines.
 
 <div class="note"></div>
-**NOTE**: Content from the **14/09/2024** session is uploaded. Please check from **Session on 14/09/2024**.
+**NOTE**: Content from the **28/09/2024** session is uploaded. Please check from **Session on 28/09/2024**.
 
 # Opening session on 10/08/2024
 
@@ -67,15 +67,20 @@
 |  [Estimating structural connectivity]() |
 |  [Structure to Function coupling example]() |
 
-## [Upcoming session 28/09/2024 is on Functional MRI](notebooks/NIMG_workshop_fMRI_analysis.ipynb "Analyzing fMRI data with Nilearn")
+## Session on 28/09/2024
+
+## [Intro to functional Magnetic Resonance Imaging & Functional Connectivity](lectures/28092024_NIMG_Workshop_fMRI-I.pdf)
+## [Analyzing fMRI data with Nilearn - Extraction of timeseries signals (voxel-based, ROI-based, Seed-based)](notebooks/NIMG_workshop_fMRI_analysis.ipynb "Analyzing fMRI data with Nilearn")
+## [Sample fMRI data - Auditory task](demos/fMRI/Sample_data/fmri_auditory_task2.nii.gz)
+## [Exploring preprocessing output data from fMRIPrep](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/kamalaker_dadi_ihub-data_iiit_ac_in/EnNDs5IXvlxDmgUpS69txcsBaO37ybZW8LqrFv7sJzqMKQ?e=fPWUdo)
+
+
+## Upcoming session 05/10/2024 is on Resting-state Functional Connectivity - Statistics & Machine Learning
 
 | Topics |
 |:-----:|
-|  [Introduction lecture on fMRI case studies]() |
 |  [Exploring preprocessing tools for fMRI]() |
 |  [After preprocessing: Quality control]() |
-|  [Image manipulation via nilearn]() |
-|  [Brain parcellations for fMRI timeseries]() |
 |  [Cleaning fMRI timeseries signals - removing confounds]() |
 |  [Resting-state Functional connectivity - Static and Dynamic]() |
 |  [Task-fMRI]() |
