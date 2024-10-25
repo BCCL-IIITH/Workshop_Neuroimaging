@@ -1,7 +1,7 @@
 # Outline
 
 <div class="note"></div>
-**NOTE**: Upcoming session is on 05/10/2024 at **3-5pm, SH1** which covers - Extraction of functional connectivity (ROI-ROI, Seed-Voxel), - Statistical comparisons between two groups, - Functional connectivity based Brain-Age prediction
+**NOTE**: Upcoming session is on 26/10/2024 at **3-5pm, SH1** which covers - preprocessing aspects of fMRI data
 
 <div class="note"></div>
 **NOTE**: Content from the **28/09/2024** session is uploaded. Please check from **Session on 28/09/2024**.
@@ -81,13 +81,14 @@
 ## [Predict Age from resting-state fMRI with Machine Learning Notebook](notebooks/Age_prediction_from_rsfMRI.ipynb)
 ## [Data download](https://drive.google.com/drive/folders/1PRaE91jbi9ZMA5M9FDhllRQlwkVcobqs)
 
+## Upcoming session 26/10/2024 is on exploring preprocessing tools for fMRI
 
-| Topics |
+## [Exploring preprocessing output data from fMRIPrep](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/kamalaker_dadi_ihub-data_iiit_ac_in/EnNDs5IXvlxDmgUpS69txcsBaO37ybZW8LqrFv7sJzqMKQ?e=fPWUdo)
+
+| Topics uncovered|
 |:-----:|
-|  [Exploring preprocessing tools for fMRI]() |
 |  [After preprocessing: Quality control]() |
-|  [Cleaning fMRI timeseries signals - removing confounds]() |
-|  [Resting-state Functional connectivity - Static and Dynamic]() |
+|  [Resting-state Functional connectivity - Dynamic]() |
 |  [Task-fMRI]() |
 
 ## Two sessions on Time series signals

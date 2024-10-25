@@ -5,7 +5,7 @@ order: 1
 ---
 
 <div class="note"></div>
-**NOTE**: Upcoming session is on 05/10/2024 at **3-5pm, SH1** which covers - Extraction of functional connectivity (ROI-ROI, Seed-Voxel), - Statistical comparisons between two groups, - Functional connectivity based Brain-Age prediction
+**NOTE**: Upcoming session is on 26/10/2024 at **3-5pm, SH1** which covers - preprocessing aspects of raw fMRI data
 
 # Welcome!
 Hello everyone and welcome to the "MRI and EEG data analysis" workshop that will take place
