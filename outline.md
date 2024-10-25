@@ -77,6 +77,7 @@
 
 ## Session on 05/10/2024: Resting-state Functional Connectivity - Machine Learning
 
+## [Intro to fMRI & Functional Connectivity - II](lectures/05102024_NIMG_Workshop_fMRI-II.pdf)
 ## [Functional Connectivity Notebook](notebooks/NIMG_workshop_functional_connectivity.ipynb)
 ## [Predict Age from resting-state fMRI with Machine Learning Notebook](notebooks/Age_prediction_from_rsfMRI.ipynb)
 ## [Data download](https://drive.google.com/drive/folders/1PRaE91jbi9ZMA5M9FDhllRQlwkVcobqs)
