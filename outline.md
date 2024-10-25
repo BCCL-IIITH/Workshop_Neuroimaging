@@ -75,7 +75,7 @@
 ## [Exploring preprocessing output data from fMRIPrep](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/kamalaker_dadi_ihub-data_iiit_ac_in/EnNDs5IXvlxDmgUpS69txcsBaO37ybZW8LqrFv7sJzqMKQ?e=fPWUdo)
 
 
-## Upcoming session 05/10/2024 is on Resting-state Functional Connectivity - Statistics & Machine Learning
+## Session on 05/10/2024: Resting-state Functional Connectivity - Machine Learning
 
 ## [Functional Connectivity Notebook](notebooks/NIMG_workshop_functional_connectivity.ipynb)
 ## [Predict Age from resting-state fMRI with Machine Learning Notebook](notebooks/Age_prediction_from_rsfMRI.ipynb)
