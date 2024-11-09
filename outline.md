@@ -1,10 +1,10 @@
 # Outline
 
 <div class="note"></div>
-**NOTE**: Upcoming session is on 26/10/2024 at **3-5pm, SH1** which covers - preprocessing aspects of fMRI data
+**NOTE**: Upcoming online session on 09/11/2024 at **3-5pm (IST)** which covers - EEG signal analysis
 
 <div class="note"></div>
-**NOTE**: Content from the **28/09/2024** session is uploaded. Please check from **Session on 28/09/2024**.
+**NOTE**: Content from the **26/10/2024** session is uploaded. Please check from **Session on 26/10/2024**.
 
 # Opening session on 10/08/2024
 
@@ -82,17 +82,19 @@
 ## [Predict Age from resting-state fMRI with Machine Learning Notebook](notebooks/Age_prediction_from_rsfMRI.ipynb)
 ## [Data download](https://drive.google.com/drive/folders/1PRaE91jbi9ZMA5M9FDhllRQlwkVcobqs)
 
-## Upcoming session 26/10/2024 is on exploring preprocessing tools for fMRI
+## Session on 26/10/2024: Exploring preprocessing tools for fMRI
 
-## [Exploring preprocessing output data from fMRIPrep](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/kamalaker_dadi_ihub-data_iiit_ac_in/EnNDs5IXvlxDmgUpS69txcsBaO37ybZW8LqrFv7sJzqMKQ?e=fPWUdo)
+## [FSL tool based pre-processing fMRI data](lectures/26102024_NIMG_Workshop_FSL_Preprocessing_Outline.pdf)
+## [Exploring preprocessing output data from fMRIPrep for quality control](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/kamalaker_dadi_ihub-data_iiit_ac_in/EnNDs5IXvlxDmgUpS69txcsBaO37ybZW8LqrFv7sJzqMKQ?e=fPWUdo)
 
-| Topics uncovered|
+| Topics uncovered on fMRI|
 |:-----:|
-|  [After preprocessing: Quality control]() |
 |  [Resting-state Functional connectivity - Dynamic]() |
 |  [Task-fMRI]() |
 
-## Two sessions on Time series signals
+## Upcoming session on 09/11/2024 is on EEG signal analysis
+
+## [Notebooks for this session can be found here](https://drive.google.com/drive/folders/14X2kwCH5KIp0mXSZlh3QRZJtn5-ogkhI?usp=sharing)
 
 | Topics |
 |:-----:|
