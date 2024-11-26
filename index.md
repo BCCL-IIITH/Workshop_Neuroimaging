@@ -4,9 +4,6 @@ title: Home
 order: 1
 ---
 
-<div class="note"></div>
-**NOTE**: Upcoming online session on 09/11/2024 at **3-5pm (IST)** which covers - EEG signal analysis
-
 # Welcome!
 Hello everyone and welcome to the "MRI and EEG data analysis" workshop that will take place
 at the International Institute of Information Technology Hyderabad organized by Cognitive

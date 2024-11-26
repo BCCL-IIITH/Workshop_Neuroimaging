@@ -1,11 +1,5 @@
 # Outline
 
-<div class="note"></div>
-**NOTE**: Upcoming online session on 09/11/2024 at **3-5pm (IST)** which covers - EEG signal analysis
-
-<div class="note"></div>
-**NOTE**: Content from the **26/10/2024** session is uploaded. Please check from **Session on 26/10/2024**.
-
 # Opening session on 10/08/2024
 
 ## [Prof. Bapi Raju Lecture: Big Data in Cognitive Neuroscience: Opportunities & Challenges](lectures/IIITH_Neuroimaging_workshop_IntroLec_10Aug2024_upload.pdf "Big Data in CogSci")
